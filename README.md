@@ -1,4 +1,9 @@
 # TechPreppers
+
+**Stack:** HTML, JavaScript
+
+**Skills:** Browser mapping interfaces
+
 ### Download git project 
 ### Open index.html
 
