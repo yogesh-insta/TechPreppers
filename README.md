@@ -3,7 +3,7 @@
 ### Open index.html
 
 ## Overview
-![Alt text](https://github.com/ynmanware/TechPreppers/blob/master/EDR%20Functions.jpg?raw=true "Title")
+![Alt text](https://github.com/yogesh-insta/TechPreppers/blob/master/EDR%20Functions.jpg?raw=true "Title")
 
 ## Video
 [![Emergency Data Response](https://img.youtube.com/vi/NylFdXe8sOg/0.jpg)](https://www.youtube.com/watch?v=NylFdXe8sOg)
